@@ -1,0 +1,7 @@
+{
+  "apiUrl": "https://api.emissarymed.com/",
+  "balancedMarketPlace": "/v1/marketplaces/MP25LlO7dqvW4SRGjhOliAOY",
+  "dev": false,
+  "env": "prod"
+}
+

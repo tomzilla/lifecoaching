@@ -1,0 +1,7 @@
+{
+  "apiUrl": "http://alpha-api.emissarymed.com/",
+  "balancedMarketPlace": "/v1/marketplaces/TEST-MP2JYbWGrBmB3bAjhaM8a3LY",
+  "dev": true,
+  "env": "staging"
+}
+
